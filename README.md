@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Faisal and I'm a Web developer, from Saudi arabia</p>
+<p align="left">My name is sara and I'm a data scientist, from Saudi arabia</p>
 
 ###
 
